@@ -4,6 +4,8 @@
 
 **Задание №2: https://contest.yandex.ru/contest/47261/problems/**
 
+**Задание №3: https://contest.yandex.ru/contest/47519/problems/**
+
 <br>
 
 Чтобы получить доступ к практическим м самостоятельным заданиям заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLScrj4SZWt7x9gR5-vl_pHqPQvJa5CzrCl6y4ia5uvSZK3MAug/viewform?usp=sf_link).
