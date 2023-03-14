@@ -8,4 +8,9 @@
 
 <br>
 
-Чтобы получить доступ к практическим м самостоятельным заданиям заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLScrj4SZWt7x9gR5-vl_pHqPQvJa5CzrCl6y4ia5uvSZK3MAug/viewform?usp=sf_link).
+**Просроченные: https://contest.yandex.ru/contest/47564/problems/**  
+После дедлайна задачи можно решать здесь в свободном режиме, без оценивания.
+
+<br>
+
+Чтобы получить доступ к практическим и самостоятельным заданиям заполните [форму](https://docs.google.com/forms/d/e/1FAIpQLScrj4SZWt7x9gR5-vl_pHqPQvJa5CzrCl6y4ia5uvSZK3MAug/viewform?usp=sf_link).
