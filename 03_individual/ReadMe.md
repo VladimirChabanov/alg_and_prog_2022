@@ -6,6 +6,8 @@
 
 **Задание №3: https://contest.yandex.ru/contest/47519/problems/**
 
+**Задание №4: https://contest.yandex.ru/contest/47905/problems/**
+
 <br>
 
 **Просроченные: https://contest.yandex.ru/contest/47564/problems/**  
